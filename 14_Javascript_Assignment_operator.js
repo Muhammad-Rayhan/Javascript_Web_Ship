@@ -3,3 +3,4 @@
 */
 
 let name = "Rayhan";
+let num = 5 + 6;
