@@ -10,3 +10,4 @@ let num3 = "24" + "8";
 console.log(num3);
 //Assign Sign Return Variable Value & Print This.
 let num4 = "Rakib";
+console.log(num4);
