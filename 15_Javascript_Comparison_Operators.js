@@ -3,3 +3,4 @@ let num2 = 20;
 
 console.log(num1 == num2); //False
 console.log(num1 > num2); //False
+console.log(num1 < num2); //True
